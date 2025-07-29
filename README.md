@@ -1,4 +1,5 @@
 # 🛒 Amazon Clone Project
+# just for learning
 
 This is a front-end clone of the Amazon India website. Built using HTML and CSS, it mimics the layout, design, and UI structure of the Amazon home page.
 
